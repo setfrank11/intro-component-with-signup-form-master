@@ -111,7 +111,6 @@ body {
   .main-container {
     display: flex;
     width: 1114px;
-    border: 1px solid red;
   }
   .main-container h1 {
     font-size: 3em;
